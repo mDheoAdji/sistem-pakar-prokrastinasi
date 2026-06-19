@@ -1,0 +1,62 @@
+[
+  {
+    "id": "G01",
+    "name": "Sering menunda memulai tugas"
+  },
+  {
+    "id": "G02",
+    "name": "Menunggu hingga mendekati deadline"
+  },
+  {
+    "id": "G03",
+    "name": "Tugas sering terlambat dikumpulkan"
+  },
+  {
+    "id": "G04",
+    "name": "Sulit mengikuti rencana belajar"
+  },
+  {
+    "id": "G05",
+    "name": "Lebih memilih bermain media sosial"
+  },
+  {
+    "id": "G06",
+    "name": "Menghabiskan waktu lama di media sosial"
+  },
+  {
+    "id": "G07",
+    "name": "Merasa stres karena tugas kuliah"
+  },
+  {
+    "id": "G08",
+    "name": "Beban tugas terasa terlalu banyak"
+  },
+  {
+    "id": "G09",
+    "name": "Kurang percaya diri menyelesaikan tugas"
+  },
+  {
+    "id": "G10",
+    "name": "Takut hasil tugas tidak bagus"
+  },
+  {
+    "id": "G11",
+    "name": "Sulit mengendalikan diri saat terdistraksi"
+  },
+  {
+    "id": "G12",
+    "name": "Lebih memilih aktivitas menyenangkan daripada mengerjakan tugas"
+  },
+  {
+    "id": "G13",
+    "name": "Merasa jenuh terhadap kegiatan perkuliahan"
+  },
+  {
+    "id": "G14",
+    "name": "Tidak mampu mengatur waktu belajar dengan baik"
+  },
+  {
+    "id": "G15",
+    "name": "Tidak memahami tugas yang diberikan dosen"
+  }
+]

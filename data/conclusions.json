@@ -1,0 +1,37 @@
+[
+  {
+    "id": "P01",
+    "name": "Prokrastinasi Rendah",
+    "description": "Mahasiswa memiliki kemampuan yang cukup baik dalam mengelola waktu dan menyelesaikan tugas akademik tepat waktu. Gejala prokrastinasi yang muncul masih dalam batas wajar dan belum memberikan dampak signifikan terhadap aktivitas akademik.",
+    "suggestion": [
+      "Pertahankan kebiasaan belajar yang sudah baik.",
+      "Tetap gunakan jadwal belajar yang teratur.",
+      "Lakukan evaluasi rutin terhadap target akademik.",
+      "Hindari distraksi yang dapat mengganggu fokus belajar."
+    ]
+  },
+  {
+    "id": "P02",
+    "name": "Prokrastinasi Sedang",
+    "description": "Mahasiswa menunjukkan beberapa perilaku prokrastinasi seperti menunda pengerjaan tugas atau kurang konsisten dalam mengikuti jadwal belajar. Kondisi ini mulai berpotensi memengaruhi kualitas dan ketepatan waktu penyelesaian tugas akademik.",
+    "suggestion": [
+      "Buat daftar prioritas tugas harian.",
+      "Gunakan teknik manajemen waktu seperti Pomodoro.",
+      "Kurangi aktivitas yang tidak berkaitan dengan akademik saat jam belajar.",
+      "Tetapkan target belajar yang realistis dan terukur."
+    ]
+  },
+  {
+    "id": "P03",
+    "name": "Prokrastinasi Tinggi",
+    "description": "Mahasiswa menunjukkan kecenderungan kuat untuk menunda tugas akademik, sering terlambat menyelesaikan pekerjaan, mudah terdistraksi oleh media sosial, dan mengalami kesulitan dalam mengatur waktu. Kondisi ini dapat berdampak negatif terhadap prestasi akademik apabila tidak segera ditangani.",
+    "suggestion": [
+      "Gunakan teknik Pomodoro untuk meningkatkan fokus belajar.",
+      "Kurangi penggunaan media sosial selama waktu belajar.",
+      "Buat jadwal belajar harian dan patuhi secara konsisten.",
+      "Pisahkan tugas besar menjadi beberapa tugas kecil yang lebih mudah dikerjakan.",
+      "Gunakan aplikasi pengingat atau task management.",
+      "Konsultasikan dengan dosen pembimbing atau konselor akademik apabila kesulitan berlanjut."
+    ]
+  }
+]
