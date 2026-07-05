@@ -2,214 +2,151 @@
   {
     "id": "R01",
     "if": [
-      "G04",
-      "G13",
-      "G15"
+      "G01",
+      "G02"
     ],
-    "then": "P01",
-    "source": [
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Kejenuhan akademik dan kesulitan memahami tugas menunjukkan prokrastinasi tingkat rendah."
+    "then": "P01"
   },
   {
     "id": "R02",
     "if": [
-      "G04",
-      "G08",
-      "G13"
+      "G02",
+      "G03"
     ],
-    "then": "P01",
-    "source": [
-      "Moch. Hasan Sidqi et al. (2025)",
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Beban tugas dan kejenuhan akademik belum berdampak signifikan terhadap penyelesaian tugas."
+    "then": "P01"
   },
   {
     "id": "R03",
     "if": [
       "G04",
-      "G08",
-      "G15"
+      "G05"
     ],
-    "then": "P01",
-    "source": [
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Kesulitan memahami tugas dan pengelolaan belajar yang kurang baik menunjukkan prokrastinasi rendah."
+    "then": "P01"
   },
   {
     "id": "R04",
     "if": [
-      "G01",
-      "G02",
-      "G03"
+      "G03",
+      "G07",
+      "G08"
     ],
-    "then": "P02",
-    "source": [
-      "Nugroho & Jaryanto (2024)"
-    ],
-    "reason": "Penundaan tugas dan keterlambatan penyelesaian merupakan indikator prokrastinasi akademik."
+    "then": "P02"
   },
   {
     "id": "R05",
     "if": [
-      "G07",
+      "G05",
       "G08",
-      "G13"
+      "G10"
     ],
-    "then": "P02",
-    "source": [
-      "Moch. Hasan Sidqi et al. (2025)"
-    ],
-    "reason": "Stres akademik, beban tugas, dan kejenuhan menunjukkan kecenderungan prokrastinasi tingkat sedang."
+    "then": "P02"
   },
   {
     "id": "R06",
     "if": [
-      "G09",
-      "G10",
-      "G15"
+      "G07",
+      "G08",
+      "G11"
     ],
-    "then": "P02",
-    "source": [
-      "Nugroho & Jaryanto (2024)",
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Efikasi diri rendah dan kesulitan memahami tugas berkaitan dengan prokrastinasi akademik."
+    "then": "P02"
   },
   {
     "id": "R07",
     "if": [
-      "G11",
-      "G14",
-      "G04"
+      "G04",
+      "G07",
+      "G12"
     ],
-    "then": "P02",
-    "source": [
-      "Nugroho & Jaryanto (2024)",
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Kontrol diri dan manajemen waktu yang buruk berhubungan dengan prokrastinasi sedang."
+    "then": "P02"
   },
   {
     "id": "R08",
     "if": [
-      "G14",
-      "G04",
-      "G02"
+      "G03",
+      "G08",
+      "G10",
+      "G12"
     ],
-    "then": "P02",
-    "source": [
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Kesulitan mengatur waktu dan kecenderungan menunggu deadline menunjukkan prokrastinasi sedang."
+    "then": "P03"
   },
   {
     "id": "R09",
     "if": [
-      "G15",
-      "G01",
-      "G02"
+      "G05",
+      "G06",
+      "G10",
+      "G11"
     ],
-    "then": "P02",
-    "source": [
-      "Anisa Bela et al. (2023)",
-      "Nugroho & Jaryanto (2024)"
-    ],
-    "reason": "Kesulitan memahami tugas menyebabkan mahasiswa menunda pengerjaan tugas."
+    "then": "P03"
   },
   {
     "id": "R10",
     "if": [
-      "G01",
-      "G02",
-      "G03",
-      "G05"
+      "G04",
+      "G05",
+      "G08",
+      "G12"
     ],
-    "then": "P03",
-    "source": [
-      "Nugroho & Jaryanto (2024)",
-      "Moch. Hasan Sidqi et al. (2025)"
-    ],
-    "reason": "Penundaan tugas disertai penggunaan media sosial meningkatkan tingkat prokrastinasi."
+    "then": "P03"
   },
   {
     "id": "R11",
     "if": [
-      "G05",
       "G06",
-      "G12"
+      "G07",
+      "G08",
+      "G10"
     ],
-    "then": "P03",
-    "source": [
-      "Moch. Hasan Sidqi et al. (2025)",
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Mahasiswa lebih memilih aktivitas menyenangkan dan media sosial daripada mengerjakan tugas."
+    "then": "P03"
   },
   {
     "id": "R12",
     "if": [
-      "G07",
+      "G03",
+      "G05",
+      "G06",
       "G08",
-      "G13",
-      "G01"
+      "G10"
     ],
-    "then": "P03",
-    "source": [
-      "Moch. Hasan Sidqi et al. (2025)",
-      "Nugroho & Jaryanto (2024)"
-    ],
-    "reason": "Stres akademik yang diikuti penundaan tugas menunjukkan prokrastinasi tingkat tinggi."
+    "then": "P04"
   },
   {
     "id": "R13",
     "if": [
-      "G09",
+      "G04",
+      "G05",
+      "G06",
+      "G08",
       "G10",
-      "G15",
-      "G03"
+      "G12"
     ],
-    "then": "P03",
-    "source": [
-      "Nugroho & Jaryanto (2024)",
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Kurangnya kepercayaan diri dan keterlambatan tugas menunjukkan prokrastinasi tinggi."
+    "then": "P04"
   },
   {
     "id": "R14",
     "if": [
-      "G11",
-      "G14",
-      "G04",
-      "G03"
+      "G03",
+      "G06",
+      "G07",
+      "G08",
+      "G10",
+      "G11"
     ],
-    "then": "P03",
-    "source": [
-      "Nugroho & Jaryanto (2024)",
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Gangguan kontrol diri dan keterlambatan tugas menunjukkan prokrastinasi tinggi."
+    "then": "P04"
   },
   {
     "id": "R15",
     "if": [
-      "G01",
-      "G02",
       "G03",
+      "G04",
       "G05",
       "G06",
-      "G07"
+      "G07",
+      "G08",
+      "G10",
+      "G11",
+      "G12"
     ],
-    "then": "P03",
-    "source": [
-      "Nugroho & Jaryanto (2024)",
-      "Moch. Hasan Sidqi et al. (2025)",
-      "Anisa Bela et al. (2023)"
-    ],
-    "reason": "Kombinasi penundaan tugas, penggunaan media sosial berlebihan, dan stres akademik merupakan indikator kuat prokrastinasi tinggi."
+    "then": "P04"
   }
 ]

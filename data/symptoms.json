@@ -1,62 +1,62 @@
 [
   {
     "id": "G01",
-    "name": "Sering menunda memulai tugas"
+    "name": "Materi kuliah terasa terlalu sulit",
+    "variable": "Kejenuhan Akademik"
   },
   {
     "id": "G02",
-    "name": "Menunggu hingga mendekati deadline"
+    "name": "Metode pembelajaran dosen kurang menarik",
+    "variable": "Kejenuhan Akademik"
   },
   {
     "id": "G03",
-    "name": "Tugas sering terlambat dikumpulkan"
+    "name": "Tuntutan kuliah terasa terlalu besar",
+    "variable": "Kejenuhan Akademik"
   },
   {
     "id": "G04",
-    "name": "Sulit mengikuti rencana belajar"
+    "name": "Sering menggunakan media sosial untuk mengatasi kejenuhan",
+    "variable": "Kecanduan Media Sosial"
   },
   {
     "id": "G05",
-    "name": "Lebih memilih bermain media sosial"
+    "name": "Sering menggunakan media sosial untuk mencari informasi terbaru",
+    "variable": "Kecanduan Media Sosial"
   },
   {
     "id": "G06",
-    "name": "Menghabiskan waktu lama di media sosial"
+    "name": "Merasa sulit hidup tanpa media sosial",
+    "variable": "Kecanduan Media Sosial"
   },
   {
     "id": "G07",
-    "name": "Merasa stres karena tugas kuliah"
+    "name": "Mengalami stres ketika mendapat tugas yang sulit",
+    "variable": "Stres Akademik"
   },
   {
     "id": "G08",
-    "name": "Beban tugas terasa terlalu banyak"
+    "name": "Merasa beban tugas kuliah terlalu banyak",
+    "variable": "Stres Akademik"
   },
   {
     "id": "G09",
-    "name": "Kurang percaya diri menyelesaikan tugas"
+    "name": "Merasa tertekan karena tuntutan dari orang tua",
+    "variable": "Stres Akademik"
   },
   {
     "id": "G10",
-    "name": "Takut hasil tugas tidak bagus"
+    "name": "Lebih memilih aktivitas lain daripada mengerjakan tugas",
+    "variable": "Prokrastinasi Akademik"
   },
   {
     "id": "G11",
-    "name": "Sulit mengendalikan diri saat terdistraksi"
+    "name": "Tidak memahami tugas yang diberikan dosen",
+    "variable": "Prokrastinasi Akademik"
   },
   {
     "id": "G12",
-    "name": "Lebih memilih aktivitas menyenangkan daripada mengerjakan tugas"
-  },
-  {
-    "id": "G13",
-    "name": "Merasa jenuh terhadap kegiatan perkuliahan"
-  },
-  {
-    "id": "G14",
-    "name": "Tidak mampu mengatur waktu belajar dengan baik"
-  },
-  {
-    "id": "G15",
-    "name": "Tidak memahami tugas yang diberikan dosen"
+    "name": "Merasa tugas kuliah terlalu banyak sehingga menunda pengerjaan",
+    "variable": "Prokrastinasi Akademik"
   }
 ]
