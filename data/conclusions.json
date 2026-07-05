@@ -2,21 +2,33 @@
   {
     "id": "P01",
     "name": "Prokrastinasi Akademik Rendah",
-    "description": "Mahasiswa menunjukkan kecenderungan prokrastinasi yang rendah."
+    "description": "Mahasiswa menunjukkan kecenderungan prokrastinasi yang rendah.",
+    "source": [
+      "Sidqi, M. H., Nurdiansah, I. D., & Darmawan, D. (2024). Faktor-Faktor yang Mempengaruhi Prokrastinasi Akademik Mahasiswa: Kejenuhan Akademik, Kecanduan Media Sosial, dan Stres Akademik. Fondatia: Jurnal Pendidikan Dasar, 9(2). https://doi.org/10.36088/fondatia.v9i2.5749"
+    ]
   },
   {
     "id": "P02",
     "name": "Prokrastinasi Akademik Sedang",
-    "description": "Mahasiswa mulai menunjukkan perilaku prokrastinasi akademik."
+    "description": "Mahasiswa mulai menunjukkan perilaku prokrastinasi akademik.",
+    "source": [
+      "Sidqi, M. H., Nurdiansah, I. D., & Darmawan, D. (2024). Faktor-Faktor yang Mempengaruhi Prokrastinasi Akademik Mahasiswa: Kejenuhan Akademik, Kecanduan Media Sosial, dan Stres Akademik. Fondatia: Jurnal Pendidikan Dasar, 9(2). https://doi.org/10.36088/fondatia.v9i2.5749"
+    ]
   },
   {
     "id": "P03",
     "name": "Prokrastinasi Akademik Tinggi",
-    "description": "Mahasiswa memiliki kecenderungan prokrastinasi akademik yang tinggi."
+    "description": "Mahasiswa memiliki kecenderungan prokrastinasi akademik yang tinggi.",
+    "source": [
+      "Sidqi, M. H., Nurdiansah, I. D., & Darmawan, D. (2024). Faktor-Faktor yang Mempengaruhi Prokrastinasi Akademik Mahasiswa: Kejenuhan Akademik, Kecanduan Media Sosial, dan Stres Akademik. Fondatia: Jurnal Pendidikan Dasar, 9(2). https://doi.org/10.36088/fondatia.v9i2.5749"
+    ]
   },
   {
     "id": "P04",
     "name": "Prokrastinasi Akademik Sangat Tinggi",
-    "description": "Mahasiswa menunjukkan perilaku prokrastinasi akademik yang sangat tinggi dan memerlukan perhatian."
+    "description": "Mahasiswa menunjukkan perilaku prokrastinasi akademik yang sangat tinggi dan memerlukan perhatian.",
+    "source": [
+      "Sidqi, M. H., Nurdiansah, I. D., & Darmawan, D. (2024). Faktor-Faktor yang Mempengaruhi Prokrastinasi Akademik Mahasiswa: Kejenuhan Akademik, Kecanduan Media Sosial, dan Stres Akademik. Fondatia: Jurnal Pendidikan Dasar, 9(2). https://doi.org/10.36088/fondatia.v9i2.5749"
+    ]
   }
 ]

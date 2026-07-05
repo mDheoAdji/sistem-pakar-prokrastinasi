@@ -28,7 +28,7 @@ router.post("/", (req, res) => {
     diagnosis: conclusion,
     activeRule: lastRule.id,
     reason: lastRule.reason,
-    source: lastRule.source,
+    source: [conclusion.source],
     selectedSymptoms: symptoms,
     matchedRules
   });
